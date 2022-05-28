@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Upendra B
+- 👋 Hi, I’m Upendra
 - 👀 I’m interested in R and Python for Data cleaning, visualization, analysis and Prediction
 - 🌱 Learning data and business, now and forever
 - 📫 upendra.acd@gmail.com
