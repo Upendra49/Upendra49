@@ -9,7 +9,8 @@ Currently focused on multi-agent AI architecture and agentic systems.
 - 🔍 Pricing & competitive intelligence systems
 
 **Currently building:**
-- `competitive-intelligence-framework` — autonomous multi-agent system for competitive gap detection
+- `multi-agent-competitive-intelligence` — autonomous multi-agent system for competitive gap detection
+
 
 **Stack:** Python · LLMs · Anthropic API · BigQuery · GCP · Vertex AI · SQL
 
